@@ -1,0 +1,8 @@
+{
+  "name": "memory-fragmentation-lab",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Visual contiguous memory allocation simulator",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
